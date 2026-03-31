@@ -27,11 +27,16 @@ Business Insights for Bright Coffee Shop using Historical Transactional Data The
 **Files in Repository**
 
 •	README.md → Documentation of the project (this file)
-•	Miro_Plan → Data flow & architecture diagram
-•	SQL Coding file →  dataset with transformations
-•	Bright coffee shop Excel analysis file → Pivot tables
+
+•	BRIGHT COFFEE SHOP_MIRO.png → Data flow & architecture diagram
+
+•	SQL Coding file.sql →  dataset with transformations
+
+•	Bright coffee shop Excel analysis file.xlsx → Pivot tables
+
 •	BrightCoffeeShop_Sales_Presentation.pdf → Presentation slides for the CEO
-•	SQL_Queries.sql → SQL scripts for data extraction and transformation
+
+•	Bright_Coffee_Shop_Analysis_Casestudy_rawdata → SQL scripts for data extraction and transformation
 
 **Key takeaways**
 
